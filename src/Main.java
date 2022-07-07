@@ -124,7 +124,7 @@ String out = switch (vote) {
     case 9 -> "IX"; // римское число 10 выше в if
     default ->"";
    };
-   System.out.println(out);
+   System.out.println(out) ;
 }
                }
         }
